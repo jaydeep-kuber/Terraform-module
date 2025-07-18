@@ -1,0 +1,11 @@
+*.tfstate
+variables.tf
+terraform.tfvars
+*.tfstate.backup
+*.tfvars.json
+*.tfplan
+*.tfplan.json
+aws-dev-kp
+aws-dev-kp.pub
+.terraform
+.terraform.lock.hcl
